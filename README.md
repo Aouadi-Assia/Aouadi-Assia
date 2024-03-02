@@ -32,6 +32,3 @@
 
 
 
-
-
-<img align="left" alt="Tensorflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-line-wordmark.svg" style="padding-right:10px;" />

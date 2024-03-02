@@ -25,7 +25,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aouadi-assia&show_icons=true&locale=en&layout=compact" alt="aouadi-assia" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aouadi-assia&show_icons=true&locale=en" alt="aouadi-assia" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aouadi-Assia&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aouadi-assia&" alt="aouadi-assia" /></p>
 
